@@ -1,0 +1,22 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-Wshadow",
+      "-g",
+      "-fanalyzer",
+      "-fsanitize=address",
+      "-g",
+      "-o",
+      "output/sln",
+      "src/sln.c"
+    ],
+    "directory": "/home/hendrik/Coding/SLN",
+    "file": "/home/hendrik/Coding/SLN/src/sln.c",
+    "output": "/home/hendrik/Coding/SLN/output/sln"
+  }
+]
